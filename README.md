@@ -10,3 +10,5 @@
    npm install --force  
    npm start
 
+#### [P1 - Building Pages](https://guides.emberjs.com/release/tutorial/part-1/building-pages/)
+
