@@ -26,3 +26,5 @@
 
 #### [P1 - Interactive Component](https://guides.emberjs.com/release/tutorial/part-1/interactive-components/)
     Create JS file for <Retal::Image> component: ember generate component-class rental/image
+
+#### [P1 - Working With Data](https://guides.emberjs.com/release/tutorial/part-1/working-with-data/)
