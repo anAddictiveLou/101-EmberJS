@@ -12,3 +12,6 @@
 
 #### [P1 - Building Pages](https://guides.emberjs.com/release/tutorial/part-1/building-pages/)
 
+#### [P1 - Automated Testing](https://guides.emberjs.com/release/tutorial/part-1/automated-testing/)
+    Create test:        ember generate acceptance-test super-rentals
+    Run test server:    ember test --server
