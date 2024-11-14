@@ -18,3 +18,7 @@
 
 #### [P1 - Component Basic](https://guides.emberjs.com/release/tutorial/part-1/component-basics/)
     Generate test for Jumpo component: ember generate component-test jumbo
+
+#### [P1 - More About Components](https://guides.emberjs.com/release/tutorial/part-1/more-about-components/)
+    Create rental component:        ember generate component rental
+    Add image for retal property:   ember generate component rental/image
