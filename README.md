@@ -22,3 +22,7 @@
 #### [P1 - More About Components](https://guides.emberjs.com/release/tutorial/part-1/more-about-components/)
     Create rental component:        ember generate component rental
     Add image for retal property:   ember generate component rental/image
+
+
+#### [P1 - Interactive Component](https://guides.emberjs.com/release/tutorial/part-1/interactive-components/)
+    Create JS file for <Retal::Image> component: ember generate component-class rental/image
