@@ -28,3 +28,7 @@
     Create JS file for <Retal::Image> component: ember generate component-class rental/image
 
 #### [P1 - Working With Data](https://guides.emberjs.com/release/tutorial/part-1/working-with-data/)
+
+
+#### [P2 - Route Params](https://guides.emberjs.com/v5.12.0/tutorial/part-2/route-params/)
+    ember generate component rental/detailed

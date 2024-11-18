@@ -19,7 +19,7 @@ module('Integration | Component | rental/image', function (hooks) {
       .hasAttribute('src', '/assets/images/teaching-tomster.png')
       .hasAttribute('alt', 'Teaching Tomster');
 
-    assert
+    assert;
   });
 
   test('clicking on the component toggles its size', async function (assert) {
